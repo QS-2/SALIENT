@@ -1,3 +1,9 @@
+![Hist](hist.html)
+
+![Score Citations 2018 bundled](SCORE_citations_2018_bundled.html)
+
+![Score Citations 2018](SCORE_citations_2018.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/michael-smith-qs2/SALIENT/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
