@@ -1,4 +1,4 @@
-![Hist](hist.html)
+[Hist](hist.md)
 
 ![Score Citations 2018 bundled](SCORE_citations_2018_bundled.html)
 
